@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+# Copyright (c) 2013-2018 Hanson Robotics, Ltd, all rights reserved 
 """
 This script is responsible for various data collection,
 used as a system health check and first point debugging.
